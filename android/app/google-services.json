@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98547425927",
+    "firebase_url": "https://lisec-9c04e.firebaseio.com",
+    "project_id": "lisec-9c04e",
+    "storage_bucket": "lisec-9c04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98547425927:android:765ae233388eeeaacdce22",
+        "android_client_info": {
+          "package_name": "com.localizeddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98547425927-8t7out6vntp2ql7dfd4uon41aiagaug4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRQixUQxJMdoClhLQ3DXpvBNs5yi2i4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98547425927-8t7out6vntp2ql7dfd4uon41aiagaug4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
